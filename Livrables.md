@@ -8,3 +8,8 @@ L'ensemble des pièces à modéliser sont disponibles sur Onshape avec les liens
 ¤ [Exercice 3](https://cad.onshape.com/documents/50b0ced427976d228f21d34d/w/341f5911bb30ec65a4887743/e/47a07ce9751d44de008f68fb)  
 ¤ [Exercice 4](https://cad.onshape.com/documents/157af253f111f99f6e488c92/w/61d451010b018822de329eea/e/95c9f9d9157564ad2d69be4f)  
 ¤ [Exercice 5](https://cad.onshape.com/documents/626da6e0d63fc7d485a7c6f0/w/63b2924a8fe31294c8c51b87/e/ca38073f5bea51096f05ebc5)  
+
+## Séance 22 janvier 2026
+Une fois la modélisation 3D est réalisé avec Onshape, on passe à l'impression 3D.  
+
+Les impresssions ont été réalisés et voici les pièces imprimées :  
