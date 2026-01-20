@@ -1,7 +1,7 @@
 # Phase 1
 ## Séance 19 janvier 2026
 Durant la séance, les bases des CAD et CAO (Conception Assisté par Ordinateur) ont été abordés.  
-Pour la réalisation de modélisation 3D, on utilisera le site __Onshape__.
+Pour la réalisation de modélisation 3D, on utilisera le site __Onshape__.  
 L'ensemble des pièces à modéliser sont disponibles sur Onshape avec les liens ci-dessous :  
 ¤ [Exercice 1](https://cad.onshape.com/documents/df037e857c65d72a9e0dcdee/w/5bb3aaa7c1116d4dddbc7c86/e/42c94ab56460c4359e813fc6)  
 ¤ [Exercice 2](https://cad.onshape.com/documents/ca30c9cf2d4c386ce32318bf/w/4f4a85186b39939a6845c0c7/e/ec8557db5ca79b660bbd65a4)  
