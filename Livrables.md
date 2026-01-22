@@ -2,7 +2,8 @@
 ## Séance 19 janvier 2026
 Durant la séance, les bases des CAD et CAO (Conception Assisté par Ordinateur) ont été abordés.  
 Pour la réalisation de modélisation 3D, on utilisera le site __Onshape__.  
-L'ensemble des pièces à modéliser sont disponibles sur Onshape avec les liens ci-dessous :  
+L'ensemble des pièces à modéliser sont disponibles sur Onshape avec les liens ci-dessous : 
+
 Exercice|Dimension|Modèle 3D|Lien Onshape
 --------|---------|---------|------------
 1|<img width="901" height="614" alt="image" src="https://github.com/user-attachments/assets/678f081f-0c90-4636-b804-316cccc83495" />|<img width="743" height="471" alt="image" src="https://github.com/user-attachments/assets/b4ffc8cc-ecec-44af-8757-68371270a02c" />|[Exercice 1](https://cad.onshape.com/documents/df037e857c65d72a9e0dcdee/w/5bb3aaa7c1116d4dddbc7c86/e/42c94ab56460c4359e813fc6)
@@ -14,4 +15,8 @@ Exercice|Dimension|Modèle 3D|Lien Onshape
 ## Séance 22 janvier 2026
 Une fois la modélisation 3D est réalisé avec Onshape, on passe à l'impression 3D.  
 Explication du fonctionnement d'une imprimante 3D, présentation des différents matériaux d'impression et explication des slicers.   
-Les impresssions ont été réalisés et voici les pièces imprimées :  
+Voici les différentes étapes de l'impression :  
+
+Choix du modèle 3D|Paramètrage du slicer|Impression|Résultat
+------------------|---------------------|----------|--------
+<img width="391" height="604" alt="image" src="https://github.com/user-attachments/assets/b97b624d-157d-48a9-91fa-b11225f828c7" />|<img width="394" height="586" alt="image" src="https://github.com/user-attachments/assets/7509a9fc-cd2e-43d8-b57f-89036061316f" />||
