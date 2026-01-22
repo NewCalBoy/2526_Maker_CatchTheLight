@@ -19,4 +19,5 @@ Voici les différentes étapes de l'impression :
 
 Choix du modèle 3D|Paramètrage du slicer|Impression|Résultat
 ------------------|---------------------|----------|--------
-<img width="391" height="604" alt="image" src="https://github.com/user-attachments/assets/b97b624d-157d-48a9-91fa-b11225f828c7" />|<img width="394" height="586" alt="image" src="https://github.com/user-attachments/assets/7509a9fc-cd2e-43d8-b57f-89036061316f" />||
+<img width="391" height="604" alt="image" src="https://github.com/user-attachments/assets/b97b624d-157d-48a9-91fa-b11225f828c7" />|<img width="394" height="586" alt="image" src="https://github.com/user-attachments/assets/7509a9fc-cd2e-43d8-b57f-89036061316f" />||![20260122_125204](https://github.com/user-attachments/assets/996603d3-09f2-48f1-871f-fcb7a532f437)
+
