@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20250114)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(uuid "82e9b536-742a-45e8-aa57-6ab47b2ac119")
 	(paper "A4")
 	(lib_symbols)
@@ -438,11 +438,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "1f198217-8a93-494f-b16c-14bd6e314522")
 		(property "Sheetname" "Button&LED3"
 			(at 78.74 88.1884 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -452,6 +454,8 @@
 		)
 		(property "Sheetfile" "Button&LED.kicad_sch"
 			(at 78.74 100.9146 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -503,11 +507,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "392dc6df-2254-4788-a525-e9e7b40da09d")
 		(property "Sheetname" "Button&LED2"
 			(at 78.74 69.1384 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -517,6 +523,8 @@
 		)
 		(property "Sheetfile" "Button&LED.kicad_sch"
 			(at 78.74 81.8646 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -568,11 +576,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "60204cec-f63d-4aef-89ce-f3a8795b766d")
 		(property "Sheetname" "Button&LED7"
 			(at 127 69.1384 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -582,6 +592,8 @@
 		)
 		(property "Sheetfile" "Button&LED.kicad_sch"
 			(at 127 81.8646 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -633,11 +645,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "876f94a5-0c34-4a1f-928d-e3598d288681")
 		(property "Sheetname" "Button&LED4"
 			(at 78.74 107.2384 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -647,6 +661,8 @@
 		)
 		(property "Sheetfile" "Button&LED.kicad_sch"
 			(at 78.74 119.9646 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -698,11 +714,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "93f52174-1dd2-4d0f-82be-e6036da92879")
 		(property "Sheetname" "Button&LED9"
 			(at 127 105.9684 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -712,6 +730,8 @@
 		)
 		(property "Sheetfile" "Button&LED.kicad_sch"
 			(at 127 118.6946 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -763,11 +783,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "95c9ffa5-ddb7-461c-9ed2-3dcdd1488cd9")
 		(property "Sheetname" "Button&LED5"
 			(at 78.74 125.0184 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -777,6 +799,8 @@
 		)
 		(property "Sheetfile" "Button&LED.kicad_sch"
 			(at 78.74 137.7446 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -828,11 +852,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "98a65d1d-4397-4be2-99ac-ba3963676a92")
 		(property "Sheetname" "Button&LED8"
 			(at 127 88.1884 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -842,6 +868,8 @@
 		)
 		(property "Sheetfile" "Button&LED.kicad_sch"
 			(at 127 100.9146 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -893,11 +921,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "a417973c-152c-41e6-83d0-121a68ec2b81")
 		(property "Sheetname" "Button&LED10"
 			(at 127 123.7484 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -907,6 +937,8 @@
 		)
 		(property "Sheetfile" "Button&LED.kicad_sch"
 			(at 127 136.4746 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -958,11 +990,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "bb3664c6-572a-4ac4-809b-1f807c3b149f")
 		(property "Sheetname" "Button&LED6"
 			(at 127 48.8184 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -972,6 +1006,8 @@
 		)
 		(property "Sheetfile" "Button&LED.kicad_sch"
 			(at 127 61.5446 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1023,11 +1059,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "c66647a4-c4d5-42a9-8381-2d1a59d24ac3")
 		(property "Sheetname" "Button&LED1"
 			(at 78.74 48.8184 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1037,6 +1075,8 @@
 		)
 		(property "Sheetfile" "Button&LED.kicad_sch"
 			(at 78.74 61.5446 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
